@@ -1,5 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
+- 🔭 I’m currently working as a freelancer
+- 🌱 I’m currently learning ReactJS
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I love pixel art games and JRPGs
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-lucasgoncalves)](https://github.com/pro-lucasgoncalves/github-readme-stats)
 <!--
 **pro-lucasgoncalves/pro-lucasgoncalves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
