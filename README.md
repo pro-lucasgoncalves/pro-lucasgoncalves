@@ -5,7 +5,11 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I love pixel art games and JRPGs
 
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-lucasgoncalves&show_icons=true&theme=dracula)](https://github.com/pro-lucasgoncalves/github-readme-stats)
+<div style="display: block"><br>
+  
+[![Lucas Gonçalves' GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-lucasgoncalves&show_icons=true&theme=dracula)](https://github.com/pro-lucasgoncalves/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-lucasgoncalves&show_icons=true&theme=dracula&hide_progress=true)](https://github.com/pro-lucasgoncalves/github-readme-stats)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
