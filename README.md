@@ -7,7 +7,7 @@
 
 ##
 
-[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-lucasgoncalves)](https://github.com/pro-lucasgoncalves/github-readme-stats)
+[![Lucas' GitHub stats](https://github-readme-stats.vercel.app/api?username=pro-lucasgoncalves&show_icons=true&theme=dracula))](https://github.com/pro-lucasgoncalves/github-readme-stats)
 
 ##
 
